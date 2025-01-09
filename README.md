@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Rod!
 <!--
 **rodvial/rodvial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Rod
 
 <img src="https://rodvial.github.io/images/ezgif-1-105bf6edd8.png" width="300" height="300"/>
-
-👋 Hi, I'm Rod!
 
 I am an ITIL-Certified Systems Programmer Analyst and Design professional with over 15 years of extensive experience in the Information Technology field. My expertise spans IT infrastructure, operations, systems security, IT service management, business analysis, and data center operations. I specialize in designing, implementing, and optimizing IT systems, business processes, and service management frameworks to align IT solutions with business objectives. My hands-on expertise includes IT environment components such as hardware, software, networking, virtualization, and managing on-premise, hybrid, and cloud infrastructures.
 
