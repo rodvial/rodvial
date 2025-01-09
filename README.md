@@ -15,20 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- markdownlint-disable MD041 -->
-![Welcome to the official GitHub profile of @rodvial(https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
-
-### Elsewhere on the internet
-
-[![LinkedIn]](https://linkedin.com/in/rodvial)
 
 ### Popular blog posts
 
-* [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
-* [The seven habits of highly effective GitHubbers](https://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/)
-* [The six types of pull requests you see on GitHub](https://ben.balter.com/2015/12/08/types-of-pull-requests/)
-* [Why everything should have a URL](https://ben.balter.com/2015/11/12/why-urls/)
-* [Why open source](https://ben.balter.com/2015/11/23/why-open-source/)
-* [Diff (and collaborate on) Microsoft Word documents using GitHub](https://ben.balter.com/2015/02/06/word-diff/)
+* [WEB3 DEVELOPMENT](https://rodvial.github.io/blog/networking/2024/06/28/alpha-awus1900-drivers.html)
+* 
+* 
+* 
+* 
+* 
 
 ### About Rod
 
