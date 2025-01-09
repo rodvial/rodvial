@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **rodvial/rodvial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- markdownlint-disable MD041 -->
-
-### Popular blog posts
-
-* [WEB3 DEVELOPMENT](https://rodvial.github.io/blog/networking/2024/06/28/alpha-awus1900-drivers.html)
-* 
-* 
-* 
-* 
-* 
-
 ### About Rod
 
 <img src="https://rodvial.github.io/images/ezgif-1-105bf6edd8.png" width="300" height="300"/>
