@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 
 ### About Rod
 
-<!-- markdownlint-disable MD013 -->
----
-layout: page
-title: About
-permalink: /about/
----
-
 <img src="https://rodvial.github.io/images/ezgif-1-105bf6edd8.png" width="300" height="300"/>
 
 👋 Hi, I'm Rod!
