@@ -40,6 +40,33 @@ Outside of work, I enjoy photography, coding, and gaming. I also dedicate time t
 
 🚀 Some of My roles are in (reverse chronological order) and 💼 specialties:
 
+    Freelance IT & Commercial Consultant - Latin Crew Cleaning Services
+    Responsible for overseeing the commercial and technology operations supporting the growth and efficiency of Latin Crew Cleaning Services. Ensuring profitable service delivery through effective contract management, vendor coordination, and IT systems alignment.
+    1. Contract Management
+        - Drafting, negotiating, and managing client and vendor contracts, such as:
+            - Support and maintenance agreements
+            - Ensuring Service Level Agreements (SLAs) and compliance requirements are met.
+    2. Revenue and Cost Management
+        - Working with owners and partners to price services, manage costs, and track margins on services and projects.
+        - Supporting quoting and billing models for managed services, or consulting engagements.
+        
+    Key Responsibilities:\
+        - Managed IT service contracts, software subscriptions, and licensing agreements to ensure cost-effective operations (e.g., CRM, scheduling, invoicing tools).
+        - Oversaw vendor and procurement management, negotiating terms with IT providers (POS systems, website hosting, email services, etc.).
+        - Led the selection and implementation of business-critical tools (e.g., Google Workspace, cPanel email, scheduling apps), ensuring alignment with operational goals.
+        - Developed pricing models and service agreements for residential and commercial clients, ensuring margin targets were met.
+        - Coordinated with web developers and marketing teams to support e-commerce integration, website performance, and digital service offerings.
+        - Supported compliance efforts, including data protection, email deliverability (SPF/DKIM/DMARC), and IT security standards for client communications.
+        - Monitored operational KPIs and IT service performance to ensure service excellence and customer satisfaction.
+    
+    IT Consultant - CBI Consultants:
+    •    Manage Microsoft SQL Server (Schemas, Reporting Services)
+    •    Manage OpenVPN
+    •    Manage Microsoft365 (Administrator)
+    •    Manage Google Workspace (Administrator)
+    •    Manage NinjaOne (Automated Endpoint Management Platform)
+    •    Manage OrangeHRM Administration - Human Resource (HR) Administration
+    
     Systems Security Administrator - SPRING:
     •	Endpoint security and threat mitigation
     •	Network and firewall security management
